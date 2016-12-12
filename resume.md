@@ -1,100 +1,54 @@
-Johnny Coder
-============
+# Alok Singh
 
-----
+## Education and Coursework
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+2013-2017 (expected)
 
-----
+:   **BA, Mathematics**; UC Berkeley
 
-Education
----------
+    -   Real Analysis (MATH 202A)
+    -   Abstract Algebra (MATH 250)
+    -   Topology (MATH 202)
+    -   Artificial Intelligence (CS 188)
+    -   Algorithms (CS 170)
+    -   Machine Learning (CS 189)
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+## Experience
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+**Data Scientist Intern, Radius Intelligence (2015)**
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+Worked on integrating customer data with existing database. Mostly
+worked with CTO/CPO. Used Python and Apache Spark.
 
-    *Minor: Awesomeology*
+-   Used Apache Spark cluster to analyze customer data. Found a security
+    vulnerability and had it fixed.
+-   Integrated customer-provided data with existing database, increasing
+    its size by 3x.
 
-Experience
-----------
+**Investment Analyst, Cabezon Investment Group (2013)**
 
-**Your Most Recent Work Experience:**
+Analyzed economies of Saudi Arabia and Brazil. Concluded both were bad
+investments (and was right). Paper was published in investor newsletter.
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+-   Met clients to discuss alternative investments.
 
-* First item
+## Programming Languages
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+-   Python, Haskell, Bash, Vimscript
+-   Basic knowledge of C, Idris
 
-**That Other Job You Had**
+## Interests
 
-Also with a short description.
+-   Automated Theorem Proving
+-   Computational Topology
+-   Squash
+-   Traveling (been to 16 countries in past 6 years)
+-   Writing
 
-Technical Experience
---------------------
+------------------------------------------------------------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+> <alokbeniwal@gmail.com> • 01 (408) 421-5658\
+> 2005 Hearst Ave, Apt 3, Berkeley, CA\
+> [alok.blog](http://www.alok.blog/) •
+> [github.com/alok](https://www.github.com/alok/)\
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
