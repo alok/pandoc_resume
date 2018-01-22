@@ -34,6 +34,13 @@ annealing.
 
 ## Relevant Projects
 
+**Network Compression**
+
+Implemented model compression to test the conclusion of the paper
+*Understanding Deep Learning Requires Rethinking Generalization*. Blog
+post and code
+[here](https://alok.github.io/2018/01/12/compressing-neural-networks-to-see-if-they-learn).
+
 **Deep Q-Network**
 
 Implemented DQN to play Atari games (Pong and Breakout). Also
@@ -59,6 +66,19 @@ Built a phylogenetic tree using a modified Jukes-Cantor method.
 
 Reconstructed 3D images of protein tertiary structure from 2D
 projections by applying Fourier analysis.
+
+## Blog Posts
+
+**MAML**
+
+Sketched out MAML
+[here](https://alok.github.io/2018/01/16/my-morning-straitjacket-model-agnostic-meta-learning-for-fast-adaptation-of-deep-networks-maml).
+
+**Vanishing/Exploding Gradients and Power Iteration**
+
+[How eigenvalue analysis explains why power iteration works and why
+gradients
+explode](https://alok.github.io/2017/09/18/eigenapplication-explosions).
 
 ## Skills
 
