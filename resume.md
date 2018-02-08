@@ -12,7 +12,7 @@
 :   **BA, Mathematics**; University of California, Berkeley
 
     Deep Reinforcement Learning (CS 294), Machine Learning (CS 189),
-    Functional Analysis, Topology and Measure Theory, Artificial
+    Functional and Real Analysis, Topology and Measure Theory, Artificial
     Intelligence (CS 188), Algebraic Topology
 
 ## Relevant Experience
@@ -58,28 +58,11 @@ Implemented basic policy gradient methods.
 
 Found optimal parameters for architecture 10x faster than brute search.
 
-**Phylogenetic Tree Construction**
-
-Built a phylogenetic tree using a modified Jukes-Cantor method.
-
 **Tomographic Reconstruction**
 
 Reconstructed 3D images of protein tertiary structure from 2D
 projections by applying Fourier analysis.
 
-## Blog Posts
-
-**MAML**
-
-Sketched out MAML
-[here](https://alok.github.io/2018/01/16/my-morning-straitjacket-model-agnostic-meta-learning-for-fast-adaptation-of-deep-networks-maml).
-
-**Vanishing/Exploding Gradients and Power Iteration**
-
-[How eigenvalue analysis explains why power iteration works and why
-gradients
-explode](https://alok.github.io/2017/09/18/eigenapplication-explosions).
-
 ## Skills
 
--   Python, PyTorch, TensorFlow, Keras, Bash, Haskell, Apache Spark
+-   Python, PyTorch, TensorFlow, shell scripting, Haskell, Apache Spark
