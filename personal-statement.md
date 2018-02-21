@@ -15,6 +15,9 @@ hospital. I spent that time thinking about what I could do that would
 have the most impact on the world, and AI came out on top, edging out
 bioengineering.
 
+Ultimately, I want to build machines that can do mathematics better than
+humans as a sort of perverse joke.
+
 I spent my senior year of college taking or auditing courses in
 reinforcement learning and statistical learning theory. I went to the
 Recurse Center the summer after, and studied and implemented several
