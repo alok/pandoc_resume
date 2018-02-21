@@ -50,9 +50,9 @@ reimplemented from scratch for basic OpenAI Gym environments.
 
 Implemented and gave a talk about DAgger at the Recurse Center.
 
-**Policy Gradient Methods**
+**Policy Gradient and Actor Critic**
 
-Implemented basic policy gradient methods.
+Implemented both.
 
 **Genetic Algorithm to optimize hyperparameters for neural nets**
 
