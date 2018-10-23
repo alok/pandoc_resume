@@ -23,9 +23,8 @@
 
 **Machine Learning Consultant, Papert Labs** (2018)
 
--   Consulted companies on how to use ML.
--   Worked on time series forecasting and automating our ML pipeline.
-    Cut runtime by 2 hours.
+Consulted companies on how to use ML. Worked on time series forecasting
+and automating our ML pipeline, cutting runtime by 2 hours.
 
 **Ray, AMPLab** (2018)
 
@@ -40,12 +39,8 @@ algorithms and simulated annealing.
 
 **Data Scientist Intern, Radius Intelligence** (2015)
 
--   Did data cleaning and exploratory data analysis on customer-provided
-    data using Apache Spark
--   Found a security vulnerability relating to customer passwords and
-    had it fixed.
--   Integrated customer data with our own, increasing total dataset size
-    by 3x.
+-   Did EDA using Apache Spark. Integrated customer data with our own,
+    increasing total dataset size by 3x.
 
 ## Relevant Projects
 
@@ -56,8 +51,10 @@ Implemented model compression to test the conclusion of the paper
 post and code
 [here](https://alok.github.io/2018/01/12/compressing-neural-networks-to-see-if-they-learn).
 
-**Parallel PPO** Implemented advanced policy gradient algorithm and
-tuned to achieve superhuman performance on Atari.
+**Parallel PPO**
+
+Implemented advanced policy gradient algorithm and tuned to achieve
+superhuman performance on Atari.
 
 **DAgger**
 
