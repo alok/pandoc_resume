@@ -1,9 +1,9 @@
 # Alok Singh
 
-| <alokbeniwal@gmail.com> • 01 (408) 421-5658
+| <alokbeniwal@gmail.com> • 408-421-5658 •
+  [alok.blog](https://alok.github.io/) •
+  [github.com/alok](https://www.github.com/alok/)
 | 2042 Hearst Ave Apt C, Berkeley, CA 94709
-| [alok.blog](https://alok.github.io/)
-| [github.com/alok](https://www.github.com/alok/)
 
 ## Education and Coursework
 
@@ -15,22 +15,28 @@
     Real Analysis, Topology, Measure Theory, Artificial Intelligence,
     Algebraic Topology
 
+## Publications
+
+**Spiky Corrupt Markov Decision Processes** (forthcoming)
+
 ## Relevant Experience
 
 **Machine Learning Consultant, Papert Labs** (2018)
 
-Consulted companies on how to use ML.
+-   Consulted companies on how to use ML.
+-   Worked on time series forecasting and automating our ML pipeline.
+    Cut runtime by 2 hours.
 
-Primarily worked on time series forecasting and automating the ML
-pipeline. Cut time to run pipeline by 2 hours.
+**Ray, AMPLab** (2018)
+
+Maintained PyTorch support for distributed ML computing library
+[Ray](https://github.com/ray-project/ray/).
 
 **Recurse Center** (2017)
 
 Worked on deep reinforcement learning. Implemented DAgger, DQN, and
-policy gradient methods.
-
-Also worked on metaheuristics such as genetic algorithms and simulated
-annealing.
+policy gradient methods. Also worked on metaheuristics such as genetic
+algorithms and simulated annealing.
 
 **Data Scientist Intern, Radius Intelligence** (2015)
 
@@ -50,24 +56,18 @@ Implemented model compression to test the conclusion of the paper
 post and code
 [here](https://alok.github.io/2018/01/12/compressing-neural-networks-to-see-if-they-learn).
 
-**Deep Q-Network**
-
-Implemented DQN to play Atari games (Pong and Breakout). Also
-reimplemented from scratch for basic environments such as CartPole.
+**Parallel PPO** Implemented advanced policy gradient algorithm and
+tuned to achieve superhuman performance on Atari.
 
 **DAgger**
 
 Implemented and gave a talk about DAgger at the Recurse Center.
 
-**A2C**
+**Deep Q-Network**
 
-Implemented A2C to solve simple continuous control problems.
-
-**Genetic Algorithm to optimize hyperparameters for neural nets**
-
-Found optimal hyperparameters for neural network architecture 10x faster
-than brute search.
+Implemented DQN with optimizations to play Atari games to superhuman
+levels.
 
 ## Skills
 
--   Python, PyTorch, TensorFlow, shell scripting, Haskell
+-   Python, PyTorch, TensorFlow, Bash, UNIX, Haskell
