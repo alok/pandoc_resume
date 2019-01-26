@@ -3,7 +3,6 @@
 | <alokbeniwal@gmail.com> • 408-421-5658 •
   [alok.blog](https://alok.github.io/) •
   [github.com/alok](https://www.github.com/alok/)
-| 2042 Hearst Ave Apt C, Berkeley, CA 94709
 
 ## Education and Coursework
 
@@ -39,8 +38,8 @@ algorithms and simulated annealing.
 
 **Data Scientist Intern, Radius Intelligence** (2015)
 
--   Did EDA using Apache Spark. Integrated customer data with our own,
-    increasing total dataset size by 3x.
+Did EDA using Apache Spark. Integrated customer data with our own,
+increasing total dataset size by 3x.
 
 ## Relevant Projects
 
