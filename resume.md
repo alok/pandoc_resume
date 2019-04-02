@@ -20,6 +20,11 @@
 
 ## Relevant Experience
 
+**Machine Learning Scientist, Terrafuse** (2019)
+
+Replace (slow) classical climate simulation models with faster ones
+using deep generative models and super-resolution.
+
 **Machine Learning Consultant, Papert Labs** (2018)
 
 Consulted companies on how to use ML. Worked on time series forecasting
