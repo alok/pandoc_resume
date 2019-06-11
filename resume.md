@@ -16,7 +16,8 @@
 
 ## Publications
 
-**Spiky Corrupt Markov Decision Processes** (forthcoming)
+**Spiky Corrupt Markov Decision Processes** IJCAI 2019, AI Safety
+Workshop
 
 ## Relevant Experience
 
