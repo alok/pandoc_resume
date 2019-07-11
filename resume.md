@@ -24,17 +24,12 @@ Workshop
 **Machine Learning Scientist, Terrafuse** (2019)
 
 Replace (slow) classical climate simulation models with faster ones
-using deep generative models and super-resolution.
+using generative models.
 
 **Machine Learning Consultant, Papert Labs** (2018)
 
 Consulted companies on how to use ML. Worked on time series forecasting
 and automating our ML pipeline, cutting runtime by 2 hours.
-
-**Ray, AMPLab** (2018)
-
-Maintained PyTorch support for distributed ML computing library
-[Ray](https://github.com/ray-project/ray/).
 
 **Recurse Center** (2017)
 
@@ -58,8 +53,8 @@ post and code
 
 **Parallel PPO**
 
-Implemented advanced policy gradient algorithm and tuned to achieve
-superhuman performance on Atari.
+Optimized PPO to gather data in parallel and tuned to achieve superhuman
+performance on Atari.
 
 **DAgger**
 
