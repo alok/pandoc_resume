@@ -16,6 +16,9 @@
 
 ## Publications
 
+**Downscaling Numerical Weather Models with GANs** Climate Informatics
+2019
+
 **Spiky Corrupt Markov Decision Processes** IJCAI 2019, AI Safety
 Workshop
 
