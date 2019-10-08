@@ -16,8 +16,11 @@
 
 ## Publications
 
+**Numerical Weather Model Super-Resolution**, NeurIPS 2019, ML for
+Physical Science Workshop
+
 **Downscaling Numerical Weather Models with GANs** Climate Informatics
-2019
+2019, AGU 2019, AMS 2019
 
 **Spiky Corrupt Markov Decision Processes** IJCAI 2019, AI Safety
 Workshop
