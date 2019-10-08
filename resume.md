@@ -4,6 +4,17 @@
   [alok.blog](https://alok.github.io/) •
   [github.com/alok](https://www.github.com/alok/)
 
+## Publications
+
+**Numerical Weather Model Super-Resolution**, NeurIPS 2019, ML for
+Physical Science Workshop
+
+**Spiky Corrupt Markov Decision Processes** IJCAI 2019, AI Safety
+Workshop
+
+**Downscaling Numerical Weather Models with GANs** Climate Informatics
+2019, AGU 2019, AMS 2019
+
 ## Education and Coursework
 
 2013-2017
@@ -13,17 +24,6 @@
     Deep Reinforcement Learning, Machine Learning, Functional Analysis,
     Real Analysis, Topology, Measure Theory, Artificial Intelligence,
     Algebraic Topology
-
-## Publications
-
-**Numerical Weather Model Super-Resolution**, NeurIPS 2019, ML for
-Physical Science Workshop
-
-**Downscaling Numerical Weather Models with GANs** Climate Informatics
-2019, AGU 2019, AMS 2019
-
-**Spiky Corrupt Markov Decision Processes** IJCAI 2019, AI Safety
-Workshop
 
 ## Relevant Experience
 
