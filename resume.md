@@ -21,34 +21,51 @@ Workshop
 
 :   **BA, Mathematics**; University of California, Berkeley
 
-    Deep Reinforcement Learning, Machine Learning, Functional Analysis,
-    Real Analysis, Topology, Measure Theory, Artificial Intelligence,
+    Deep Reinforcement Learning, Functional Analysis, Measure Theory,
     Algebraic Topology
 
 ## Relevant Experience
 
-**Machine Learning Scientist, Terrafuse** (2019)
+**Machine Learning Scientist, Lawrence Berkeley National Lab** (2019)
 
-Replace (slow) classical climate simulation models with faster ones
-using generative models.
+I work on using deep learning for the physical sciences (e.g. fluid
+dynamics and physical simulation) to create models that are fast and
+adapt to new data.
+
+My work on using GANs for wind speed modeling was accepted to multiple
+physical science conferences such as AGU, as well as NeurIPS 2019.
+
+Other work on generative models to predict the spread of a 3D fire
+simulation was presented at a climate science symposium at UC Berkeley.
 
 **Machine Learning Consultant, Papert Labs** (2018)
 
-Consulted companies on how to use ML. Worked on time series forecasting
-and automating our ML pipeline, cutting runtime by 2 hours.
+Consulted companies on how to use ML. Also worked with their engineering
+teams on how to integrate predictive models into their overall
+engineering system, replacing hand-tuned heuristics.
 
 **Recurse Center** (2017)
 
 Worked on deep reinforcement learning. Implemented DAgger, DQN, and
-policy gradient methods. Also worked on metaheuristics such as genetic
-algorithms and simulated annealing.
+policy gradient methods such as parallel PPO. Also worked on
+metaheuristics such as genetic algorithms and simulated annealing.
 
 **Data Scientist Intern, Radius Intelligence** (2015)
 
-Did EDA using Apache Spark. Integrated customer data with our own,
-increasing total dataset size by 3x.
+Radius acquires and performs analytics of data on small businesses. I
+integrated our client's databases with our internal company data, which
+increased total dataset size by 3x. Apache Spark was used to do EDA. I
+also helped the data science team integrate the data with our platform
+frontend.
 
 ## Relevant Projects
+
+**Spiky CRMDPs**
+
+Came up with an algorithm for safe exploration in an environment with a
+noisy reward function. We extended DeepMind's safe grid agent
+environments to [work with OpenAI
+Gym](https://github.com/jvmancuso/safe-grid-agents).
 
 **Network Compression**
 
@@ -57,20 +74,6 @@ Implemented model compression to test the conclusion of the paper
 post and code
 [here](https://alok.github.io/2018/01/12/compressing-neural-networks-to-see-if-they-learn).
 
-**Parallel PPO**
-
-Optimized PPO to gather data in parallel and tuned to achieve superhuman
-performance on Atari.
-
-**DAgger**
-
-Implemented and gave a talk about DAgger at the Recurse Center.
-
-**Deep Q-Network**
-
-Implemented DQN with optimizations to play Atari games to superhuman
-levels.
-
 ## Skills
 
--   Python, PyTorch, TensorFlow, Bash, UNIX, Haskell
+-   Python, PyTorch, TensorFlow, Bash, UNIX, Rust, Haskell
