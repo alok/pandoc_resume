@@ -1,19 +1,22 @@
 # Alok Singh
 
 | <alokbeniwal@gmail.com> • 408-421-5658 •
-  [alok.blog](https://alok.github.io/) •
   [github.com/alok](https://www.github.com/alok/)
 
 ## Publications
 
-**Numerical Weather Model Super-Resolution**, NeurIPS 2019, ML for
-Physical Science Workshop
+**Generalization Properties of Machine Learning-Based Weather Model
+Downscaling**, ICLR 2020
 
-**Spiky Corrupt Markov Decision Processes** IJCAI 2019, AI Safety
-Workshop
+**A Random Forest Model for the Probability of Large Wildfires in
+California**, ICLR 2020
+
+**Numerical Weather Model Super-Resolution**, NeurIPS 2019
+
+**Spiky Corrupt Markov Decision Processes** IJCAI 2019
 
 **Downscaling Numerical Weather Models with GANs** Climate Informatics
-2019, AGU 2019, AMS 2019
+2019, AGU 2019, AMS 2019 (Oral)
 
 ## Education
 
@@ -21,9 +24,13 @@ Workshop
 
 :   **Bachelor's, Mathematics, UC Berkeley**
 
-## Relevant Experience
+## Experience
 
-**Machine Learning Scientist, Lawrence Berkeley National Lab** (2019)
+**Deep Learning Scientist, Lawrence Berkeley National Lab** (2020)
+
+ML lead for ARPA-E project on inverse design of metamaterials.
+
+**Machine Learning Scientist, Terrafuse** (2019)
 
 I work on deep learning for the physical sciences (e.g. fluid dynamics
 and physical simulation) to create models that respect physical
@@ -48,12 +55,10 @@ metaheuristics such as genetic algorithms and simulated annealing.
 
 **Data Scientist Intern, Radius Intelligence** (2015)
 
-Radius acquires and performs analytics on small business data. I
-integrated our clients' data with internal company data, which increased
-total dataset size by 3x. Apache Spark was used to do EDA. I also helped
-the data science team integrate the data with our platform frontend.
+I added customer data to internal company data, increasing total dataset
+size by 3x. Apache Spark was used to do EDA.
 
-## Relevant Projects
+## Projects
 
 **Spiky CRMDPs**
 
