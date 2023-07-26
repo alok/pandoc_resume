@@ -1,55 +1,55 @@
 # Alok Singh
 
-| <alokbeniwal@gmail.com> • 408-421-5658 • [github.com/alok](https://www.github.com/alok/)
+<alokbeniwal@gmail.com> • 408-421-5658 • [github.com/alok](https://www.github.com/alok/)
 
-## Publications
+## Projects
 
-**A reinforcement learning environment for mathematical reasoning via program synthesis**
+[BFF](https://www.textbff.com/): Built an iMessage app around ChatGPT with
+10,000 users (Dec 2022)
 
-**Generalization Properties of Machine Learning-Based Weather Model Downscaling**, ICLR 2020
+[What it's like to dissect a
+cadaver](https://thebrowser.com/free/cadaver-speak/) (Nov 2022)
 
-**A Random Forest Model for the Probability of Large Wildfires in California**, ICLR 2020
 
-**Numerical Weather Model Super-Resolution**, NeurIPS 2019
+### Talks and Papers
 
-**Detecting Spiky Corruption in Markov Decision Processes** IJCAI 2019
+[How to differentiate a discontinuous function](https://www.youtube.com/watch?v=YP-iTs5m3X0)
+[Generalization Properties of Machine Learning Based Weather Model
+Downscaling](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth25.pdf),
+ICLR 2020
 
-**Downscaling Numerical Weather Models with GANs** Climate Informatics 2019, AGU 2019, AMS 2019 (Oral)
+[A reinforcement learning environment for mathematical reasoning via program synthesis](https://arxiv.org/pdf/2107.07373.pdf)
 
-## Education
+[Numerical Weather Model Super-Resolution](https://ml4physicalsciences.github.io/2019/files/NeurIPS_ML4PS_2019_75.pdf), NeurIPS 2019
+
+[Detecting Spiky Corruption in Markov Decision Processes](https://arxiv.org/pdf/1907.00452.pdf), IJCAI 2019
+
+### Education
 
 2013 - 2017
 
 :   **Bachelor's, Mathematics, UC Berkeley**
 
-## Experience
+### Experience
 
-**Deep Learning Scientist, Lawrence Berkeley National Lab** (2020)
+**Research Resident, Redwood Research** (2023)
 
-ML lead for ARPA-E project on inverse design of metamaterials. I had the idea to do this through differentiable simulation of the electromagnetic force.
+Program was 1 month experiment in rapid mechanistic interpretability research. I
+researched AlphaGo with another, and we probed its adversarial exploitability.
+We found AlphaGo often decides its final move very early in its hidden layers.
 
-**Machine Learning Scientist, Terrafuse** (2019)
+**Deep Learning Scientist, Lawrence Berkeley National Lab** (2020-2022)
 
-I worked on deep learning for the physical sciences. My work on using GANs for climate modeling was accepted to venues such as NeurIPS and AGU.
+I joined as a software engineer, but within a few months I came to lead the machine learning for a \$1,800,000 ARPA-E DIFFERENTIATE project.
 
-**Machine Learning Consultant, Papert Labs** (2018)
+I led us to build a differentiable electromagnetic simulator for metamaterial inverse design. This is thousands of times faster than the traditional approach of guess and check.
 
-Consulted companies on how to use ML. Also worked with their engineering teams on how to integrate predictive models into their overall engineering system, replacing hand-tuned heuristics.
+**Machine Learning Scientist, Terrafuse** (2019-2020)
 
-**Recurse Center** (2017)
+I led 2 others to replace (slow) classical climate simulation models with faster ones using GANs and super-resolution. Simulation time dropped from 4 hours to less than a second. This work was accepted at NeurIPS.
 
-Worked on deep reinforcement learning. Implemented DAgger, DQN, and parallel PPO.
+**Recurse Center** (2017): A self-directed programmer's retreat. I taught myself reinforcement learning and [implemented 11 algorithms](https://github.com/alok/rl_implementations/).
 
-## Projects
+### Skills
 
-**Spiky CRMDPs**
-
-Came up with algorithms for safe exploration in an environment with a noisy reward function. Presented work at IJCAI 2019.
-
-**Network Compression**
-
-Implemented model compression to test the conclusion of the paper *Understanding Deep Learning Requires Rethinking Generalization*. Blog post and code [here](https://alok.github.io/2018/01/12/compressing-neural-networks-to-see-if-they-learn).
-
-## Skills
-
--   Python, Julia, PyTorch, TensorFlow, Bash, UNIX, Rust, Haskell
+-   Python, Math, Reinforcement Learning, Rust, Theorem Proving, Julia, PyTorch, Bash
